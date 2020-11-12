@@ -1,8 +1,8 @@
 string = "";
 string+="In NRZ-I the inversion or lack of inversion determines the value of the bit.<br>"
 string+="Rules:<br>"
-string+="• 0 bit means no change in the level of voltage<br>"
-string+="• 1 bit means change the level of voltage."
+string+="&#8226; 0 bit means no change in the level of voltage<br>"
+string+="&#8226; 1 bit means change the level of voltage."
 
 // Typing Content
 $("#about_nrz-i").typed({

@@ -2,8 +2,8 @@ var string = "";
 string+="It is the combination of RZ and NRZ-I.<br>" 
 string+="The transition is in the middle of the bit but this time value of the bit decides which transition.<br>"
 string+="Rules<br>"
-string+="• 0 means transition<br>"
-string+="• 1 means no transition."
+string+="&#8226; 0 means transition<br>"
+string+="&#8226; 1 means no transition."
 
 // Typing Content
 $("#about_differentialmanchester").typed({

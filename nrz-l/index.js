@@ -1,8 +1,8 @@
 var string = "";
 string+="In NRZ-L the level of voltage determines the value of the bit.<br>"
 string+="Rules:<br>"
-string+="• 0 bit is represented by +V<br>"
-string+="• 1 bit is represented by -V."
+string+="&#8226; 0 bit is represented by +V<br>"
+string+="&#8226; 1 bit is represented by -V."
 
 // Typing Content
 $("#about_nrz-l").typed({

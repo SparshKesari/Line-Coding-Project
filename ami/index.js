@@ -1,8 +1,8 @@
 var string = "";
 string+="AMI means Alternate Mark Inversion<br>"
 string+="Rules:<br>"
-string+="• 0 bit is represented by neutral zero voltage<br>"
-string+="• 1 bit is represented alternating positive and negative voltage."
+string+="&#8226; 0 bit is represented by neutral zero voltage<br>"
+string+="&#8226; 1 bit is represented alternating positive and negative voltage."
 
 // Typing Content
 $("#about_ami").typed({
