@@ -40,8 +40,9 @@ body {
   margin: auto;
   height: 3px;
   width: 100%;
-  background-color: #fff;
+  background-color:  #1de9b6;
   transform-origin: 0.5 0;
+  color: #1de9b6;
 }
 .ml5 .ampersand {
   font-family: Baskerville, "EB Garamond", serif;
@@ -81,8 +82,9 @@ a{
   margin: auto;
   height: 3px;
   width: 100%;
-  background-color: #fff;
+  background-color: #1de9b6;
   transform-origin: 0.5 0;
+  /* color: #1de9b6; */
 }
 .ml6 .ampersand {
   font-family: Baskerville, "EB Garamond", serif;
